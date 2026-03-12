@@ -8,7 +8,7 @@ Pertama kali saya memainkan *Star Ocean 2* sekitar tahun 2010 atau 2011, waktu s
 
 Dulu saya bermain dengan asal menekan tombol. Tapi saya merasa senang. Kekaguman murni yang tidak perlu alasan.
 
-Tahun 2023 *Star Ocean The Second Story R* rilis. Saya baru bisa memainkannya tahun 2025, ketika ada waktu luang dan ingin bernostalgia. Saya membayangkan akan bertemu kembali dengan karakter-karakter itu, melihat mereka dalam resolusi tinggi, merasakan lagi apa yang dulu saya rasakan.
+Tahun 2023 *Star Ocean The Second Story R* rilis. Saya baru bisa memainkannya tahun 2025, ketika ada waktu luang dan ingin bernostalgia. Saya membayangkan akan bertemu kembali dengan karakter-karakter yang saya cintai, melihat mereka dalam resolusi tinggi, merasakan lagi apa yang dulu saya rasakan.
 
 Artikel ini bukan *review*. Ini surat untuk game yang saya cintai.
 
