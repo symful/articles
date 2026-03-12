@@ -16,7 +16,7 @@ on:
     branches: [main]
 
 jobs:
-  test:
+  Deno:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
