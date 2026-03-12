@@ -4,7 +4,7 @@
  * Deno Deploy: set entrypoint to src/server.ts
  */
 
-import { serveDir } from "jsr:@std/http/file-server";
+import { serveDir } from "@std/http/file-server";
 
 const DIST_PATH = new URL("../dist", import.meta.url).pathname;
 
