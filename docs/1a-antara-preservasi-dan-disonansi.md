@@ -4,7 +4,7 @@
 
 Di tahun 2023, industri JRPG sedang berada dalam fase yang menarik. Setelah bertahun-tahun hanya menjadi impian, *remake* game-game klasik kini hadir dalam keramaian. *Persona 3 Reload* memilih jalur aman dengan memperbarui visual tanpa menyentuh narasi. *Final Fantasy VII Rebirth* berani mengambil jalan sebaliknya: mengubah cerita, memperluas dunia, dan menciptakan pengalaman baru yang kontroversial. Di tengah kedua kutub itu, *Star Ocean The Second Story R* berdiri di posisi yang rumit. Ia hadir sebagai proyek kelas menengah yang dikerjakan oleh Gemdrops Inc., studio kecil yang didirikan mantan *battle programmer* tri-Ace, dengan anggaran yang tidak sebanding dengan proyek *AAA* seperti *Final Fantasy VII Rebirth*.
 
-Kritik terhadap game ini umumnya berkisar pada kontras yang sama: visual 2.5D yang memukau berhadapan dengan narasi yang terasa ketinggalan zaman. Namun, membaca SO2R hanya sebagai "game lama dengan baju baru" adalah penyederhanaan. Yang lebih menarik bukanlah *bahwa* narasinya tertinggal, tetapi *mengapa* ia tertinggal—dan apa yang dikatakan oleh ketertinggalan itu tentang cara kita memaknai *remake* itu sendiri.
+Kritik terhadap game ini umumnya berkisar pada kontras yang sama: visual 2.5D yang memukau berhadapan dengan narasi yang terasa ketinggalan zaman. Namun, membaca SO2R hanya sebagai "game lama dengan baju baru" adalah penyederhanaan. Yang lebih menarik bukanlah *bahwa* narasinya tertinggal, tetapi *mengapa* ia tertinggal dan apa yang dikatakan oleh ketertinggalan itu tentang cara kita memaknai *remake* itu sendiri.
 
 ---
 
@@ -32,7 +32,7 @@ Inilah paradoks preservasi dalam *remake*. Ketika visual diperbarui, *gameplay* 
 
 ## Dualitas yang Tidak Seimbang
 
-Sistem *Dual Protagonist* yang menjadi salah satu fitur unggulan *Star Ocean 2* mengilustrasikan paradoks ini dengan baik. Rena Lanford mendapatkan alur naratif yang utuh: misteri asal-usulnya, kekuatan penyembuhannya, darah Nedian-nya, semua terungkap secara organik melalui perjalanannya. Ia adalah pusat gravitasi cerita, dan perannya sebagai *heroine* klasik 90-an—kuat secara emosional namun tetap hangat—terbaca dengan jelas.
+Sistem *Dual Protagonist* yang menjadi salah satu fitur unggulan *Star Ocean 2* mengilustrasikan paradoks ini dengan baik. Rena Lanford mendapatkan alur naratif yang utuh: misteri asal-usulnya, kekuatan penyembuhannya, darah Nedian-nya, semua terungkap secara organik melalui perjalanannya. Ia adalah pusat gravitasi cerita, dan perannya sebagai *heroine* klasik 90-an (kuat secara emosional namun tetap hangat) terbaca dengan jelas.
 
 Claude C. Kenny, di sisi lain, hadir sebagai *audience surrogate*. Tugasnya menjadi mata pemain di dunia asing. Namun, menjadi penumpang tidak berarti harus kehilangan *arc* sendiri. Claude memiliki konflik internal yang potensial: ia putra Laksamana Ronyx J. Kenny, hidup di bawah bayang-bayang ayah legendaris, ingin membuktikan kemampuannya. Potensi ini tidak pernah dieksplorasi. Ia hadir, mengamati, bereaksi, tetapi tidak pernah menjadi subjek dalam ceritanya sendiri.
 
